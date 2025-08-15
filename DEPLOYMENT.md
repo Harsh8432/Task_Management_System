@@ -5,10 +5,6 @@ This guide covers various deployment options for the Task Management System, inc
 ## 🚀 Quick Deployment Options
 
 ### 1. Vercel (Recommended for Frontend)
-### 2. Railway (Recommended for Backend)
-### 3. Heroku (Full-stack)
-### 4. AWS (Enterprise)
-### 5. Docker (Self-hosted)
 
 ## 🌐 Frontend Deployment
 
@@ -556,15 +552,3 @@ mongo "your-connection-string" --eval "db.runCommand('ping')"
 # Check application health
 curl https://your-app.com/health
 ```
-
-## 📚 Additional Resources
-
-- [Vercel Documentation](https://vercel.com/docs)
-- [Railway Documentation](https://docs.railway.app/)
-- [Heroku Documentation](https://devcenter.heroku.com/)
-- [Docker Documentation](https://docs.docker.com/)
-- [AWS Documentation](https://aws.amazon.com/documentation/)
-
----
-
-**Happy Deploying! 🚀**
