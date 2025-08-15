@@ -562,14 +562,3 @@ const TaskCard = React.memo(({ task }: TaskCardProps) => {
 });
 ```
 
-## 📚 Additional Resources
-
-- [React Documentation](https://react.dev/)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [React Router Documentation](https://reactrouter.com/)
-- [Vite Documentation](https://vitejs.dev/)
-
----
-
-**Happy Coding! 🚀**
