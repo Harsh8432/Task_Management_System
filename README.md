@@ -4,7 +4,7 @@ A full-stack web application for managing tasks, projects, and team collaboratio
 
 ## 🚀 Features
 
-### Frontend (React + TypeScript)
+### Frontend (React + Typescript)
 - **Modern UI**: Built with React 18, TypeScript, and Tailwind CSS
 - **Responsive Design**: Mobile-first approach with beautiful, intuitive interface
 - **Real-time Updates**: WebSocket integration for live task updates
@@ -286,33 +286,5 @@ The backend can be deployed to various platforms:
 - **AWS**: Deploy to EC2 or Lambda
 - **Docker**: Use the provided Dockerfile
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/Harsh8432/-Task-Management-System/issues) page
-2. Create a new issue with detailed information
-3. Contact the maintainers
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Tailwind CSS for the utility-first CSS approach
-- MongoDB team for the robust database
-- All contributors who helped build this project
-
----
-
 **Happy Task Managing! 🎯**
+
