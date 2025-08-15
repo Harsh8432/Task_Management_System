@@ -285,6 +285,3 @@ The backend can be deployed to various platforms:
 - **Vercel**: Configure as a Node.js function
 - **AWS**: Deploy to EC2 or Lambda
 - **Docker**: Use the provided Dockerfile
-
-**Happy Task Managing! 🎯**
-
